@@ -1,0 +1,19 @@
+{
+  "name": "webpack-demo2",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack-dev-server --open",
+    "build": "webpack -p"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.29.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-latest": "^6.24.1",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.1.14"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "单入口单输出",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --open",
+    "build": "webpack -p"
+  },
+  "author": "aiwen520",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.29.3"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.1.14"
+  }
+}

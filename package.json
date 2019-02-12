@@ -1,0 +1,15 @@
+{
+  "name": "webpack-demos-self",
+  "version": "1.0.0",
+  "description": "a collection of simple demos of Webpack",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiwen520/webpack-demos.git"
+  },
+  "author": "aiwen520",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aiwen520/webpack-demos/issues"
+  },
+  "homepage": "https://github.com/aiwen520/webpack-demos#readme"
+}

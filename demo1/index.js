@@ -1,0 +1,1 @@
+document.write('<h1>你好世界,我也好</h1>')
