@@ -65,4 +65,7 @@ Webpack has a plugin system to expand its functions. For example, UglifyJs Plugi
 #demo8
 HTML Webpack Plugin and Open Browser Webpack Plugin 
 
+html-webpack-plugin could create index.html for you, and open-browser-webpack-plugin could open a new browser tab when Webpack loads.
+
+
 
