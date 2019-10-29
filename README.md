@@ -67,5 +67,15 @@ HTML Webpack Plugin and Open Browser Webpack Plugin
 
 html-webpack-plugin could create index.html for you, and open-browser-webpack-plugin could open a new browser tab when Webpack loads.
 
+#demo9
+HTML Webpack Plugin and Open Browser Webpack Plugin 
+多chunks and use template
+
+#demo10
+DefinePlugin 设置环境变量 
+process.env 获取当前系统环境信息的对象，常规可以用来进一步获取环境变量、用户名等系统信息
+
+
+
 
 
